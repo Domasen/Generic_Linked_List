@@ -1,6 +1,6 @@
 //Author: Domas Nemanius
 //Student's ID: 2110604
-//This program is for providing unit tests 'linkedlist.h' module.
+//This program is providing unit tests for 'linkedlist.h' module.
 
 #include <stdio.h>
 #include <stdlib.h>
